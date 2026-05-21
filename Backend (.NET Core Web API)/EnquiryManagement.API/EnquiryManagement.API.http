@@ -1,0 +1,6 @@
+@EnquiryManagement.API_HostAddress = http://localhost:5132
+
+GET {{EnquiryManagement.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
